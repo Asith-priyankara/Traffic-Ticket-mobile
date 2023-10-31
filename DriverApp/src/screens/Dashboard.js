@@ -40,11 +40,6 @@ const Dashboard = ({ navigation }) => {
               >
                 PENDING FINES
               </Text>
-              <Text
-                style={{ fontSize: 20, color: "white", textAlign: "center" }}
-              >
-                COUNT = 1
-              </Text>
             </View>
           </TouchableOpacity>
 
